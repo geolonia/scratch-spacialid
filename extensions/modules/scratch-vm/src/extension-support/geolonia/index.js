@@ -32,7 +32,7 @@ class Scratch3GeoloniaBlocks {
                 {
                     opcode: 'displayMap',
                     blockType: BlockType.COMMAND,
-                    text: '高松市をズーム [ZOOM] で表示',
+                    text: '地図をズーム [ZOOM] で表示',
                     arguments: {
                         LNG: {
                             type: ArgumentType.NUMBER,
