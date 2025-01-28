@@ -53,7 +53,7 @@ export default [
     {
         name: (
             <FormattedMessage
-                defaultMessage="高松市スマートマップ"
+                defaultMessage="空間ID"
                 description="Name for the 'geolonia' extension"
                 id="gui.extension.geolonia.name"
             />
@@ -63,7 +63,7 @@ export default [
         insetIconURL: geoloniaInsetIconURL,
         description: (
             <FormattedMessage
-                defaultMessage="高松市について知りながらプログラミングも学ぼう！"
+                defaultMessage="空間IDについて知りながらプログラミングも学ぼう！"
                 description="Description for the 'geolonia' extension"
                 id="gui.extension.geolonia.description"
             />
